@@ -6,4 +6,4 @@ In this project we will detect lane lines in images using Python and OpenCV. Ope
 
 Techniques used : Gaussian Blur,Canny Edge Detection, Hough Transform, Gradient Interpolation and Line Extrapolation
 
-# Watch_Your_Lane
+
